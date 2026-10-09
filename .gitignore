@@ -1,0 +1,34 @@
+# Network appliance / VM images
+*.qcow2
+*.qcow
+*.vmdk
+*.vdi
+*.img
+*.iso
+*.bin
+*.image
+*.ova
+*.ovf
+
+# VMware
+*.vmx
+*.vmxf
+*.nvram
+*.vmsd
+*.vmsn
+*.vmem
+*.vmss
+*.lck
+*.log
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+secrets*
+credentials*
+passwords*
+
+# OS-generated files
+Thumbs.db
+.DS_Store
